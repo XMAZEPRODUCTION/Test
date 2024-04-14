@@ -63,4 +63,5 @@
 2) **ЕСЛИ ВЫ ДО ЭТОГО ЛОГИНИЛИСЬ ЧЕРЕЗ БРАУЗЕР (ПУНКТ 18), ТО НУЖНО ОЧИСТИТЬ СЕССИЮ ПОЛЬЗОВАТЕЛЯ В КЕЙКЛОКЕ: ВКЛАДКА SESSIONS В АДМИНКЕ -> SIGN OUT ПОСЛЕ НАЖАТИЯ 3 ТОЧЕК СПРАВА ОТ СЕССИИ**
 3) Проведите аутенфикацию через Сваггер. Client Secret нужно вставить от **backend-gateway-client** ![Аутенфикация через Сваггер.png](images/Аутенфикация%20через%20Сваггер.png)
 4) Обратитесь на API _hello_ через сваггер: **Try it out -> Execute**. ![swagger-hello.png](images/swagger-hello.png)
+ ![image](https://github.com/XMAZEPRODUCTION/Test/assets/151576782/25af5ee6-1e82-47f2-b63f-6633f6e0718f)
 
